@@ -1,0 +1,138 @@
+{
+    "dagger": {
+        "weapon": "dagger",
+        "atk_dice": 4,
+        "ability": "bleed",
+        "ability_min": 20,
+        "duration": 2,
+        "hit": 5
+    },
+    "hand_axe": {
+        "weapon": "hand_axe",
+        "atk_dice": 6,
+        "ability": "crack",
+        "ability_min": 60,
+        "duration": 2,
+        "hit": 5
+    },
+    "javelin": {
+        "weapon": "javelin",
+        "atk_dice": 8,
+        "ability": "impale",
+        "ability_min": 20,
+        "duration": 2,
+        "hit": 8
+    },
+    "light_hammer": {
+        "weapon": "light_hammer",
+        "atk_dice": 6,
+        "ability": "disorient",
+        "ability_min": 50,
+        "duration": 2,
+        "hit": 5
+    },
+    "quarterstaff": {
+        "weapon": "quarterstaff",
+        "atk_dice": 6,
+        "ability": "block",
+        "ability_min": 70,
+        "duration": 2,
+        "hit": 5
+    },
+    "spear": {
+        "weapon": "spear",
+        "atk_dice": 10,
+        "ability": "bleed",
+        "ability_min": 20,
+        "duration": 2,
+        "hit": 8
+    },
+    "battle_axe": {
+        "weapon": "battle_axe",
+        "atk_dice": 8,
+        "ability": "crack",
+        "ability_min": 40,
+        "duration": 2,
+        "hit": 8
+    },
+    "flail": {
+        "weapon": "flail",
+        "atk_dice": 6,
+        "ability": "disarm",
+        "ability_min": 70,
+        "duration": 12,
+        "hit": 2
+    },
+    "glaive": {
+        "weapon": "glaive",
+        "atk_dice": 8,
+        "ability": "bleed",
+        "ability_min": 20,
+        "duration": 2,
+        "hit": 8
+    },
+    "great_axe": {
+        "weapon": "great_axe",
+        "atk_dice": 10,
+        "ability": "crack",
+        "ability_min": 20,
+        "duration": 2,
+        "hit": 10
+    },
+    "great_sword": {
+        "weapon": "great_sword",
+        "atk_dice": 8,
+        "ability": "amputate",
+        "ability_min": 90,
+        "duration": 2,
+        "hit": 10
+    },
+    "helbert": {
+        "weapon": "helbert",
+        "atk_dice": 8,
+        "ability": "crack",
+        "ability_min": 60,
+        "duration": 2,
+        "hit": 10
+    },
+    "sword": {
+        "weapon": "sword",
+        "atk_dice": 6,
+        "ability": "avg",
+        "ability_min": 0,
+        "duration": 2,
+        "hit": 0
+    },
+    "long_sword": {
+        "weapon": "long_sword",
+        "atk_dice": 8,
+        "ability": "avg",
+        "ability_min": 0,
+        "duration": 2,
+        "hit": 0
+    },
+    "maul": {
+        "weapon": "maul",
+        "atk_dice": 6,
+        "ability": "disorient",
+        "ability_min": 60,
+        "duration": 2,
+        "hit": 10
+    },
+    "warhammer": {
+        "weapon": "warhammer",
+        "atk_dice": 12,
+        "ability": "disorient",
+        "ability_min": 0,
+        "duration": 2,
+        "hit": 12
+    },
+    "whip": {
+        "weapon": "whip",
+        "atk_dice": 4,
+        "ability": "disarm",
+        "ability_min": 50,
+        "duration": 12,
+        "hit": 2
+    }
+}
